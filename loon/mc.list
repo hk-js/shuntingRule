@@ -1,0 +1,27 @@
+# NAME: MyAI
+# AUTHOR: kgh
+# REPO: https://github.com/kghchn/shuntingRule
+# UPDATED: 2024-01-21 10:00:00
+# MyAI TOTAL:
+
+# SUFFIX
+DOMAIN-SUFFIX,runtufenxiang.com
+DOMAIN-SUFFIX,qiangwaikan.com
+DOMAIN-SUFFIX,apkpure.com
+DOMAIN-SUFFIX,apk.support
+DOMAIN-SUFFIX,macupdater-backend.com
+DOMAIN-SUFFIX,v2rayssr.com
+DOMAIN-SUFFIX,macupdater-backend.com
+DOMAIN-SUFFIX,kuromis.com
+DOMAIN-SUFFIX,teams.microsoft.com
+DOMAIN-SUFFIX,macosicons.com
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,bulianglin.com
+DOMAIN-SUFFIX,apache.org
+DOMAIN-SUFFIX,facebook.com
+
+# KEYWORD
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,creamdata
+DOMAIN-KEYWORD,brew.sh
+DOMAIN-KEYWORD,homebrew
