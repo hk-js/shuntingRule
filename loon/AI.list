@@ -1,14 +1,20 @@
 # NAME: MyAI
 # AUTHOR: kgh
-# REPO: https://github.com/kghchn/shunting_rule
-# UPDATED: 2023-08-06 12:00:00
-# MyAI TOTAL: 4
+# REPO: https://github.com/kghchn/shuntingRule
+# UPDATED: 2024-03-17 12:00:00
+# MyAI TOTAL:
 
-# SUFFIX 2
+# SUFFIX
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,character.ai
+DOMAIN-SUFFIX,firefly.adobe.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,gemini.google.com
 
-# KEYWORD 2
+# KEYWORD
 DOMAIN-KEYWORD,.ai
 DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,gemini
+
 
