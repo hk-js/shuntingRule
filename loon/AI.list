@@ -11,10 +11,12 @@ DOMAIN-SUFFIX,firefly.adobe.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,notebooklm.google
 
 # KEYWORD
 DOMAIN-KEYWORD,.ai
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,gemini
+DOMAIN-KEYWORD,notebooklm.google
 
 
