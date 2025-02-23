@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,grok.com
 
 # KEYWORD
 DOMAIN-KEYWORD,.ai
