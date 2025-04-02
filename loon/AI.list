@@ -6,15 +6,25 @@
 
 
 # SUFFIX
-DOMAIN-SUFFIX,grok.com
+ DOMAIN-SUFFIX,bard.google.com
+ DOMAIN-SUFFIX,character.ai
+ DOMAIN-SUFFIX,firefly.adobe.com
+ DOMAIN-SUFFIX,anthropic.com
+ DOMAIN-SUFFIX,claude.ai
+ DOMAIN-SUFFIX,gemini.google.com
+ DOMAIN-SUFFIX,notebooklm.google
+ DOMAIN-SUFFIX,grok.com
+ 
+ # KEYWORD
+ DOMAIN-KEYWORD,.ai
+ DOMAIN-KEYWORD,claude
+ DOMAIN-KEYWORD,gemini
+ DOMAIN-KEYWORD,notebooklm.google
 
-# KEYWORD
-DOMAIN-KEYWORD,.ai
 
-
-INCLUDE, https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/OpenAI/OpenAI.list
-INCLUDE, https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Gemini/Gemini.list
-INCLUDE, https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Claude/Claude.list
+#INCLUDE, https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/OpenAI/OpenAI.list
+#INCLUDE, https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Gemini/Gemini.list
+#INCLUDE, https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Claude/Claude.list
 # INCLUDE, https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Jetbrains/Jetbrains.list
 
 
