@@ -22,9 +22,9 @@
  DOMAIN-KEYWORD,notebooklm.google
 
 
-#INCLUDE, https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/OpenAI/OpenAI.list
-#INCLUDE, https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Gemini/Gemini.list
-#INCLUDE, https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Claude/Claude.list
+# INCLUDE, https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/OpenAI/OpenAI.list
+# INCLUDE, https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Gemini/Gemini.list
+# INCLUDE, https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Claude/Claude.list
 # INCLUDE, https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Jetbrains/Jetbrains.list
 
 
