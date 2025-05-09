@@ -14,6 +14,8 @@
  DOMAIN-SUFFIX,gemini.google.com
  DOMAIN-SUFFIX,notebooklm.google
  DOMAIN-SUFFIX,grok.com
+ DOMAIN-SUFFIX,windsurf.com
+ DOMAIN-SUFFIX,codeium.com
  
  # KEYWORD
  DOMAIN-KEYWORD,.ai
