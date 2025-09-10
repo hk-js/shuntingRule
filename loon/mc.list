@@ -21,7 +21,6 @@ DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,amytele.com
-DOMAIN-SUFFIX,v2ex.com
 
 # KEYWORD
 DOMAIN-KEYWORD,anthropic
