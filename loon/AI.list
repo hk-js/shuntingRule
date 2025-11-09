@@ -16,6 +16,7 @@
  DOMAIN-SUFFIX,grok.com
  DOMAIN-SUFFIX,windsurf.com
  DOMAIN-SUFFIX,codeium.com
+ DOMAIN-SUFFIX,codemirror.codes
  
  # KEYWORD
  DOMAIN-KEYWORD,.ai
