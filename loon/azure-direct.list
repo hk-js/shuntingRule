@@ -18,3 +18,6 @@ DOMAIN-SUFFIX,msauth.net,DIRECT
 DOMAIN-SUFFIX,msftauth.net,DIRECT
 DOMAIN-SUFFIX,windows.net,DIRECT
 DOMAIN-SUFFIX,office.com,DIRECT
+
+DOMAIN-SUFFIX,rds.aliyuncs.com
+DOMAIN-SUFFIX,aliyuncs.com
