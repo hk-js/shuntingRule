@@ -21,3 +21,16 @@ DOMAIN-SUFFIX,office.com,DIRECT
 
 DOMAIN-SUFFIX,rds.aliyuncs.com
 DOMAIN-SUFFIX,aliyuncs.com
+
+# Teams 会议
+DOMAIN-SUFFIX,microsoft.com,DIRECT
+DOMAIN-SUFFIX,microsoftusercontent.com,DIRECT
+DOMAIN-SUFFIX,microsoftonline.com,DIRECT
+DOMAIN-SUFFIX,teams.microsoft.com,DIRECT
+DOMAIN-SUFFIX,teams.live.com,DIRECT
+DOMAIN-SUFFIX,skype.com,DIRECT
+DOMAIN-SUFFIX,skypeforbusiness.com,DIRECT
+DOMAIN-SUFFIX,lync.com,DIRECT
+DOMAIN-SUFFIX,office.com,DIRECT
+DOMAIN-SUFFIX,office365.com,DIRECT
+DOMAIN-SUFFIX,microsoft365.com,DIRECT
