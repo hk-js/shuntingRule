@@ -19,8 +19,8 @@ DOMAIN-SUFFIX,msftauth.net,DIRECT
 DOMAIN-SUFFIX,windows.net,DIRECT
 DOMAIN-SUFFIX,office.com,DIRECT
 
-DOMAIN-SUFFIX,rds.aliyuncs.com
-DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,rds.aliyuncs.com,DIRECT
+DOMAIN-SUFFIX,aliyuncs.com,DIRECT
 
 # Teams 会议
 DOMAIN-SUFFIX,microsoft.com,DIRECT
