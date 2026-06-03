@@ -1,36 +1,29 @@
+# Azure DevOps
 DOMAIN-SUFFIX,dev.azure.com,DIRECT
 DOMAIN-SUFFIX,visualstudio.com,DIRECT
-DOMAIN,ssh.dev.azure.com,DIRECT
-
 DOMAIN-SUFFIX,vsassets.io,DIRECT
-DOMAIN-SUFFIX,vssps.visualstudio.com,DIRECT
-DOMAIN-SUFFIX,vsblob.visualstudio.com,DIRECT
-
 DOMAIN-SUFFIX,dev.azureedge.net,DIRECT
 DOMAIN-SUFFIX,azureedge.net,DIRECT
 DOMAIN-SUFFIX,blob.core.windows.net,DIRECT
-
 DOMAIN-SUFFIX,pkgs.visualstudio.com,DIRECT
 DOMAIN-SUFFIX,servicebus.windows.net,DIRECT
 
+# Microsoft / Teams / Office
+DOMAIN-SUFFIX,microsoft.com,DIRECT
 DOMAIN-SUFFIX,microsoftonline.com,DIRECT
+DOMAIN-SUFFIX,microsoftusercontent.com,DIRECT
 DOMAIN-SUFFIX,msauth.net,DIRECT
 DOMAIN-SUFFIX,msftauth.net,DIRECT
+DOMAIN-SUFFIX,msidentity.com,DIRECT
+DOMAIN-SUFFIX,trafficmanager.net,DIRECT
 DOMAIN-SUFFIX,windows.net,DIRECT
 DOMAIN-SUFFIX,office.com,DIRECT
-
-DOMAIN-SUFFIX,rds.aliyuncs.com,DIRECT
-DOMAIN-SUFFIX,aliyuncs.com,DIRECT
-
-# Teams 会议
-DOMAIN-SUFFIX,microsoft.com,DIRECT
-DOMAIN-SUFFIX,microsoftusercontent.com,DIRECT
-DOMAIN-SUFFIX,microsoftonline.com,DIRECT
-DOMAIN-SUFFIX,teams.microsoft.com,DIRECT
+DOMAIN-SUFFIX,office365.com,DIRECT
+DOMAIN-SUFFIX,microsoft365.com,DIRECT
 DOMAIN-SUFFIX,teams.live.com,DIRECT
 DOMAIN-SUFFIX,skype.com,DIRECT
 DOMAIN-SUFFIX,skypeforbusiness.com,DIRECT
 DOMAIN-SUFFIX,lync.com,DIRECT
-DOMAIN-SUFFIX,office.com,DIRECT
-DOMAIN-SUFFIX,office365.com,DIRECT
-DOMAIN-SUFFIX,microsoft365.com,DIRECT
+
+# Aliyun
+DOMAIN-SUFFIX,aliyuncs.com,DIRECT
