@@ -24,6 +24,3 @@ DOMAIN-SUFFIX,teams.live.com,DIRECT
 DOMAIN-SUFFIX,skype.com,DIRECT
 DOMAIN-SUFFIX,skypeforbusiness.com,DIRECT
 DOMAIN-SUFFIX,lync.com,DIRECT
-
-# Aliyun
-DOMAIN-SUFFIX,aliyuncs.com,DIRECT
