@@ -12,7 +12,8 @@ steps:
       # UPDATED: $(date -u +"%Y-%m-%d %H:%M:%S UTC")
       EOF
 
-      while read url; do
+      while IFS= read -r url; do
+
         [ -z "$url" ] && continue
 
         echo "" >> loon/mc-proxy.list
@@ -21,11 +22,13 @@ steps:
         curl -fsSL "$url" \
           | grep -v '^#' \
           | grep -v '^$' \
-          >> loon/mc-proxy.list
+          >> loon/mc-proxy.list \
+          || echo "# FAILED: $url" >> loon/mc-proxy.list
 
       done < rules/proxy-source.txt
 
-      sort -u loon/mc-proxy.list -o loon/mc-proxy.list
+      awk '!seen[$0]++' loon/mc-proxy.list > loon/mc-proxy.tmp
+      mv loon/mc-proxy.tmp loon/mc-proxy.list
 
   - name: Commit Changes
     run: |
