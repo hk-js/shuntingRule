@@ -1,8 +1,40 @@
 # NAME: MyAI
-# AUTHOR: kgh
+# AUTHOR: k
 # REPO: https://github.com/hk-js/shuntingRule/edit/main/loon/mc.list
 # UPDATED: 2026-06-12
 # MyAI TOTAL:
+
+# 社区
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,v2ex.com
+
+# 社交
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,messenger.com
+
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redd.it
+
+# Homebrew
+DOMAIN-SUFFIX,brew.sh
+DOMAIN-SUFFIX,homebrew.mxcl.org
+
+# 开发工具
+DOMAIN-SUFFIX,apache.org
+DOMAIN-SUFFIX,macupdater-backend.com
+
+# 软件下载
+DOMAIN-SUFFIX,apkpure.com
+DOMAIN-SUFFIX,apk.support
+
+# 其他
+DOMAIN-SUFFIX,creamdata.net
+DOMAIN-SUFFIX,macosicons.com
+DOMAIN-SUFFIX,amytele.com
+DOMAIN-SUFFIX,amytele.net
+DOMAIN-SUFFIX,runtufenxiang.com
 
 # SUFFIX
 DOMAIN-SUFFIX,runtufenxiang.com
@@ -11,20 +43,7 @@ DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,apk.support
 DOMAIN-SUFFIX,macupdater-backend.com
 DOMAIN-SUFFIX,v2rayssr.com
-DOMAIN-SUFFIX,macupdater-backend.com
-DOMAIN-SUFFIX,kuromis.com
-DOMAIN-SUFFIX,macosicons.com
-DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,bulianglin.com
-DOMAIN-SUFFIX,apache.org
-DOMAIN-SUFFIX,facebook.com
-DOMAIN-SUFFIX,linux.do
-DOMAIN-SUFFIX,amytele.com
-DOMAIN-SUFFIX,amytele.net
-DOMAIN-SUFFIX,reddit.com
 
-# KEYWORD
-# DOMAIN-KEYWORD,anthropic
-# DOMAIN-KEYWORD,creamdata
-# DOMAIN-KEYWORD,brew.sh
-# DOMAIN-KEYWORD,homebrew
+
+
