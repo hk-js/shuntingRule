@@ -1,6 +1,6 @@
 # NAME: MyAI
 # AUTHOR: kgh
-# REPO: https://github.com/kghchn/shuntingRule
+# REPO: https://github.com/hk-js/shuntingRule/edit/main/loon/manual/ai.list
 # UPDATED: 2024-03-17 12:00:00
 # MyAI TOTAL:
 
@@ -29,7 +29,6 @@
 # INCLUDE, https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Gemini/Gemini.list
 # INCLUDE, https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Claude/Claude.list
 # INCLUDE, https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Jetbrains/Jetbrains.list
-
 
 
 

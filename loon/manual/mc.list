@@ -1,6 +1,6 @@
 # NAME: MyAI
 # AUTHOR: k
-# REPO: https://github.com/hk-js/shuntingRule/edit/main/loon/mc.list
+# REPO: https://github.com/hk-js/shuntingRule/edit/main/loon/manual/mc.list
 # UPDATED: 2026-06-12
 # MyAI TOTAL:
 
@@ -44,6 +44,5 @@ DOMAIN-SUFFIX,apk.support
 DOMAIN-SUFFIX,macupdater-backend.com
 DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,bulianglin.com
-
 
 
