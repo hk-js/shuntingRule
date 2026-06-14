@@ -1,1 +1,10 @@
-
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Google/Google.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Twitter/Twitter.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Reddit/Reddit.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Discord/Discord.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Facebook/Facebook.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Instagram/Instagram.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Docker/Docker.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Notion/Notion.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Figma/Figma.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Cloudflare/Cloudflare.list
