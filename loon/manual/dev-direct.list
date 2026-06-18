@@ -24,3 +24,6 @@ DOMAIN-SUFFIX,teams.live.com,DIRECT
 DOMAIN-SUFFIX,skype.com,DIRECT
 DOMAIN-SUFFIX,skypeforbusiness.com,DIRECT
 DOMAIN-SUFFIX,lync.com,DIRECT
+
+# 其他
+DOMAIN-SUFFIX,1password.com,DIRECT
