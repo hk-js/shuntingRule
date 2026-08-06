@@ -6,3 +6,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Gemini/Gemini.list
 https://raw.githubusercontent.com/VPSDance/ai-proxy-rules/refs/heads/main/rules/loon/x-ai.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Claude/Claude.list
+
+# 这个是合集，如有冲突后续可以关闭
+https://raw.githubusercontent.com/VPSDance/ai-proxy-rules/refs/heads/main/rules/loon/global.list
