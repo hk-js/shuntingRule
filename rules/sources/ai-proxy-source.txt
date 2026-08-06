@@ -4,4 +4,5 @@
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/OpenAI/OpenAI.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Jetbrains/Jetbrains.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Gemini/Gemini.list
+https://raw.githubusercontent.com/VPSDance/ai-proxy-rules/refs/heads/main/rules/loon/x-ai.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Claude/Claude.list
