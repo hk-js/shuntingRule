@@ -9,16 +9,24 @@ DOMAIN-SUFFIX,mexc.link
 DOMAIN-SUFFIX,mexc.app
 DOMAIN-SUFFIX,mexc.live
 DOMAIN-SUFFIX,mexc.zone
-DOMAIN-SUFFIX,mxc.com
-DOMAIN-SUFFIX,mxc.ai
+DOMAIN-SUFFIX,mexc.io
+DOMAIN-SUFFIX,mexcglobal.com
 DOMAIN-SUFFIX,mexc-api.com
 DOMAIN-SUFFIX,mexcapi.com
 DOMAIN-SUFFIX,mexccdn.com
+
+# MEXC / MXC
+DOMAIN-SUFFIX,mxc.com
+DOMAIN-SUFFIX,mxc.ai
 DOMAIN-SUFFIX,mxcapi.com
 
-DOMAIN-SUFFIX,mexc.io
-DOMAIN-SUFFIX,mexcglobal.com
+# MEXC App 相关业务域
 DOMAIN-SUFFIX,mocortech.com
+DOMAIN-SUFFIX,greentreeone.com
+DOMAIN-SUFFIX,coldbookfly.ru
+
+# 验证码
+DOMAIN-SUFFIX,geetest.com
 
 # ethena
 DOMAIN-SUFFIX,ethena.fi
