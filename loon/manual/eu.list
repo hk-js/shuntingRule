@@ -29,6 +29,9 @@ DOMAIN-SUFFIX,hotbookzone.com
 # 验证码
 DOMAIN-SUFFIX,geetest.com
 
+# bybit
+DOMAIN-SUFFIX,bybit.eu
+
 # ethena
 DOMAIN-SUFFIX,ethena.fi
 
