@@ -1,0 +1,21 @@
+# NAME: MyEU
+# AUTHOR: k
+# REPO: https://github.com/hk-js/shuntingRule/edit/main/loon/manual/eu.list
+# UPDATED: 2026-09-10
+
+# MEXC
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,mexc.link
+DOMAIN-SUFFIX,mexc.app
+DOMAIN-SUFFIX,mexc.live
+DOMAIN-SUFFIX,mexc.zone
+DOMAIN-SUFFIX,mxc.com
+DOMAIN-SUFFIX,mxc.ai
+DOMAIN-SUFFIX,mexc-api.com
+DOMAIN-SUFFIX,mexcapi.com
+DOMAIN-SUFFIX,mexccdn.com
+DOMAIN-SUFFIX,mxcapi.com
+
+DOMAIN-SUFFIX,mexc.io
+DOMAIN-SUFFIX,mexcglobal.com
+DOMAIN-SUFFIX,mocortech.com
