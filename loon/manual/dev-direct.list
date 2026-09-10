@@ -28,3 +28,13 @@ DOMAIN-SUFFIX,lync.com,DIRECT
 # 其他
 DOMAIN-SUFFIX,1password.com,DIRECT
 
+
+# Cloudflare Tunnel
+DOMAIN-SUFFIX,argotunnel.com,DIRECT
+DOMAIN,api.cloudflare.com,DIRECT
+
+DOMAIN-SUFFIX,argotunnel.com,DIRECT
+DOMAIN,region1.v2.argotunnel.com,DIRECT
+DOMAIN,region2.v2.argotunnel.com,DIRECT
+DOMAIN,cfd-features.argotunnel.com,DIRECT
+DOMAIN,api.cloudflare.com,DIRECT
