@@ -3,7 +3,7 @@
 # REPO: https://github.com/hk-js/shuntingRule/edit/main/loon/manual/eu.list
 # UPDATED: 2026-09-10
 
-# MEXC
+# MEXC 主域 / 官方相关域
 DOMAIN-SUFFIX,mexc.com
 DOMAIN-SUFFIX,mexc.link
 DOMAIN-SUFFIX,mexc.app
@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,mexc-api.com
 DOMAIN-SUFFIX,mexcapi.com
 DOMAIN-SUFFIX,mexccdn.com
 
-# MEXC / MXC
+# MEXC / MXC 历史或关联域
 DOMAIN-SUFFIX,mxc.com
 DOMAIN-SUFFIX,mxc.ai
 DOMAIN-SUFFIX,mxcapi.com
@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,mocortech.com
 DOMAIN-SUFFIX,greentreeone.com
 DOMAIN-SUFFIX,coldbookfly.ru
 DOMAIN-SUFFIX,hotbookzone.com
+DOMAIN-SUFFIX,gotoda.co
 
 # 验证码
 DOMAIN-SUFFIX,geetest.com
