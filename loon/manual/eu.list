@@ -5,6 +5,7 @@
 
 # MEXC 主域 / 官方相关域
 DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,mexc.co
 DOMAIN-SUFFIX,mexc.link
 DOMAIN-SUFFIX,mexc.app
 DOMAIN-SUFFIX,mexc.live
@@ -27,6 +28,7 @@ DOMAIN-SUFFIX,coldbookfly.ru
 DOMAIN-SUFFIX,hotbookzone.com
 DOMAIN-SUFFIX,flytogarden.com
 DOMAIN-SUFFIX,gotoda.co
+DOMAIN-SUFFIX,moloco.com
 
 # 验证码
 DOMAIN-SUFFIX,geetest.com
