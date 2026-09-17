@@ -3,6 +3,9 @@
 # REPO: https://github.com/hk-js/shuntingRule/edit/main/loon/manual/eu.list
 # UPDATED: 2026-09-10
 
+# O2
+DOMAIN-SUFFIX,o2online.de
+
 # MEXC 主域 / 官方相关域
 DOMAIN-SUFFIX,mexc.com
 DOMAIN-SUFFIX,mexc.co
