@@ -6,6 +6,18 @@
 # O2
 DOMAIN-SUFFIX,o2online.de
 
+# 验证码
+DOMAIN-SUFFIX,geetest.com
+
+# bybit
+DOMAIN-SUFFIX,bybit.eu
+
+# ethena
+DOMAIN-SUFFIX,ethena.fi
+
+# kraken
+DOMAIN-SUFFIX,kraken.com
+
 # MEXC 核心域名
 DOMAIN-SUFFIX,mexc.com
 DOMAIN-SUFFIX,mexc.co
@@ -24,21 +36,28 @@ DOMAIN-SUFFIX,mexcapi.com
 DOMAIN-SUFFIX,mexccdn.com
 DOMAIN-SUFFIX,mxcapi.com
 
-# MEXC App 业务 / 关联域名
+# MEXC App 业务关联域名
 DOMAIN-SUFFIX,mocortech.com
 DOMAIN-SUFFIX,gotoda.co
 DOMAIN-SUFFIX,mexcsensors.com
 DOMAIN-SUFFIX,greentreeone.com
 DOMAIN-SUFFIX,payapptoday.com
 
-# 验证码
-DOMAIN-SUFFIX,geetest.com
+# MEXC 新增站点 / 备用域名
+DOMAIN-SUFFIX,mexc.me
+DOMAIN-SUFFIX,mexceu.com
+DOMAIN-SUFFIX,mexc.cc
+DOMAIN-SUFFIX,mexcsite.com
+DOMAIN-SUFFIX,mexccex.com
+DOMAIN-SUFFIX,mcaketech.com
+DOMAIN-SUFFIX,mx-exchange.co
 
-# bybit
-DOMAIN-SUFFIX,bybit.eu
-
-# ethena
-DOMAIN-SUFFIX,ethena.fi
-
-# kraken
-DOMAIN-SUFFIX,kraken.com
+# MEXC 新增业务关联域名
+DOMAIN-SUFFIX,gdiii.xyz
+DOMAIN-SUFFIX,hottreeswim.ru
+DOMAIN-SUFFIX,winappnet.com
+DOMAIN-SUFFIX,weappnet.com
+DOMAIN-SUFFIX,getappnet.com
+DOMAIN-SUFFIX,cryptolinkapp.com
+DOMAIN-SUFFIX,365huo.xyz
+DOMAIN,sensors.xiaoxiame.com
