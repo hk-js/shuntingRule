@@ -6,32 +6,29 @@
 # O2
 DOMAIN-SUFFIX,o2online.de
 
-# MEXC 主域 / 官方相关域
+# MEXC 核心域名
 DOMAIN-SUFFIX,mexc.com
 DOMAIN-SUFFIX,mexc.co
+DOMAIN-SUFFIX,mexc.io
+DOMAIN-SUFFIX,mexc.in
+DOMAIN-SUFFIX,mexc.fm
+
+# MEXC 历史 / 备用域名
 DOMAIN-SUFFIX,mexc.link
 DOMAIN-SUFFIX,mexc.app
 DOMAIN-SUFFIX,mexc.live
 DOMAIN-SUFFIX,mexc.zone
-DOMAIN-SUFFIX,mexc.io
 DOMAIN-SUFFIX,mexcglobal.com
 DOMAIN-SUFFIX,mexc-api.com
 DOMAIN-SUFFIX,mexcapi.com
 DOMAIN-SUFFIX,mexccdn.com
-
-# MEXC / MXC
-DOMAIN-SUFFIX,mxc.com
-DOMAIN-SUFFIX,mxc.ai
 DOMAIN-SUFFIX,mxcapi.com
 
-# MEXC App 业务/备用域
+# MEXC App 业务 / 关联域名
 DOMAIN-SUFFIX,mocortech.com
-DOMAIN-SUFFIX,greentreeone.com
-DOMAIN-SUFFIX,coldbookfly.ru
-DOMAIN-SUFFIX,hotbookzone.com
-DOMAIN-SUFFIX,flytogarden.com
 DOMAIN-SUFFIX,gotoda.co
-DOMAIN-SUFFIX,moloco.com
+DOMAIN-SUFFIX,mexcsensors.com
+DOMAIN-SUFFIX,greentreeone.com
 DOMAIN-SUFFIX,payapptoday.com
 
 # 验证码
