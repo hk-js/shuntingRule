@@ -1,16 +1,20 @@
 # Azure DevOps
+DOMAIN-SUFFIX,live.com,DIRECT
 DOMAIN-SUFFIX,dev.azure.com,DIRECT
-DOMAIN-SUFFIX,visualstudio.com,DIRECT
-DOMAIN-SUFFIX,vsassets.io,DIRECT
-DOMAIN-SUFFIX,dev.azureedge.net,DIRECT
-DOMAIN-SUFFIX,azureedge.net,DIRECT
-DOMAIN-SUFFIX,blob.core.windows.net,DIRECT
-DOMAIN-SUFFIX,pkgs.visualstudio.com,DIRECT
-DOMAIN-SUFFIX,servicebus.windows.net,DIRECT
+DOMAIN-SUFFIX,ssh.dev.azure.com,DIRECT
+DOMAIN-SUFFIX,login.microsoftonline.com,DIRECT
+
+#DOMAIN-SUFFIX,visualstudio.com,DIRECT
+#DOMAIN-SUFFIX,vsassets.io,DIRECT
+#DOMAIN-SUFFIX,dev.azureedge.net,DIRECT
+#DOMAIN-SUFFIX,azureedge.net,DIRECT
+#DOMAIN-SUFFIX,blob.core.windows.net,DIRECT
+#DOMAIN-SUFFIX,pkgs.visualstudio.com,DIRECT
+#DOMAIN-SUFFIX,servicebus.windows.net,DIRECT
 
 # Microsoft / Teams / Office
 DOMAIN-SUFFIX,microsoft.com,DIRECT
-DOMAIN-SUFFIX,microsoftonline.com,DIRECT
+
 DOMAIN-SUFFIX,microsoftusercontent.com,DIRECT
 DOMAIN-SUFFIX,msauth.net,DIRECT
 DOMAIN-SUFFIX,msftauth.net,DIRECT
@@ -26,7 +30,7 @@ DOMAIN-SUFFIX,skypeforbusiness.com,DIRECT
 DOMAIN-SUFFIX,lync.com,DIRECT
 
 # 其他
-DOMAIN-SUFFIX,1password.com,DIRECT
+# DOMAIN-SUFFIX,1password.com,DIRECT
 
 
 # Cloudflare Tunnel

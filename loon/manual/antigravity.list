@@ -1,0 +1,29 @@
+
+# ===== Google Antigravity =====
+
+DOMAIN,antigravity.google,代理
+DOMAIN,antigravity-unleash.goog,代理
+
+# Google AI Developer Tools
+DOMAIN,businessaicode.googleapis.com,代理
+DOMAIN,businessaicode.us.rep.googleapis.com,代理
+DOMAIN,businessaicode.eu.rep.googleapis.com,代理
+DOMAIN,businessaicode.mtls.googleapis.com,代理
+
+# Gemini / Vertex AI
+DOMAIN,aiplatform.googleapis.com,代理
+DOMAIN,aiplatform.us.rep.googleapis.com,代理
+DOMAIN,aiplatform.eu.rep.googleapis.com,代理
+DOMAIN,aiplatform.mtls.googleapis.com,代理
+
+# Cloud Code
+DOMAIN,cloudcode-pa.googleapis.com,代理
+
+# Discovery Engine
+DOMAIN,discoveryengine.googleapis.com,代理
+DOMAIN,us-discoveryengine.googleapis.com,代理
+DOMAIN,eu-discoveryengine.googleapis.com,代理
+
+# Google OAuth 登录
+DOMAIN,accounts.google.com,代理
+DOMAIN,oauth2.googleapis.com,代理
